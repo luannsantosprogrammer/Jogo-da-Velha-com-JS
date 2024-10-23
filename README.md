@@ -5,7 +5,7 @@
 Este é um **Jogo da Velha** desenvolvido com **HTML**, **CSS** e **JavaScript puro**. O objetivo desse projeto é praticar e aprimorar os meus conhecimentos em **JavaScript**.
 
 
-![Jogo da Velha](imagens/jogo_da_velha.png)
+![Jogo da Velha](/img-jogodavelha.jpg)
 
 
 
