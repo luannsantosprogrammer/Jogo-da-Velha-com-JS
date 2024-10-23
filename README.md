@@ -4,6 +4,11 @@
 
 Este é um **Jogo da Velha** desenvolvido com **HTML**, **CSS** e **JavaScript puro**. O objetivo desse projeto é praticar e aprimorar os meus conhecimentos em **JavaScript**.
 
+
+![Jogo da Velha](imagens/jogo_da_velha.png)
+
+
+
 ## Descrição do Código
 
 ### 1. Definição das Variáveis
@@ -90,4 +95,4 @@ quadrados[8].addEventListener("click", () => vezDoJogador(quadrados[8]));
 
 ---
 
-Feito com ❤️ por [Seu Nome]
+Feito com 😎 por [Luann Rodrigo de Souza Santos]
